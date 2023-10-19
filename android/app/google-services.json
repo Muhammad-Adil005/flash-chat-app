@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401054223143",
+    "project_id": "flashchatapp-4c662",
+    "storage_bucket": "flashchatapp-4c662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401054223143:android:c522fafcf5699b326e3702",
+        "android_client_info": {
+          "package_name": "com.adil.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjJNa2wtRkMYbMytrSo2DXyS7PigR80wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
